@@ -1,0 +1,28 @@
+*************************************************************
+*                                      Booked Ticket                                   *
+*************************************************************
+
+Flight ID: 365
+
+First Name: Maheen
+
+Last Name: Maheen
+
+Passport Number: 2211
+
+Email: MaheenKhalid76@gmail.com
+
+Date of Departure: Tue Dec 14 00:00:00 PKT 2021
+
+From:  Karachi
+
+To: Aalesund	
+
+Number of Passengers: 1
+
+Flight Class: Buisness Class
+
+*************************************************************
+
+
+
